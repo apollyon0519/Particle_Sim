@@ -5,7 +5,7 @@ Requires numpy, pygame, pygame-gui and numba libraries.
 
 Use 
 
-```pip install numba```
+```pip install numpy```
 
 ```pip install pygame```
 
@@ -15,7 +15,7 @@ Use
 
 Or if you have multiple python installations, use the following in the appropriate python directory.
 
-```python -m pip install numba``` 
+```python -m pip install numpy``` 
 
 ```python -m pip install pygame```
 
